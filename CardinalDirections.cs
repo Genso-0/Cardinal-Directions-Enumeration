@@ -43,7 +43,7 @@ using UnityEngine;
         {
             dir &= ~other;
         }
-        public static bool Equals(this Directions dir, Directions other)
+        public static bool IsEqual(this Directions dir, Directions other)
         {
             return (dir & other) == other;
         }
