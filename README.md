@@ -6,4 +6,4 @@ The Vector3 is a 3 float struct and part of UnityEngine. Feel free to replace an
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Genso-0/Mesh-Gizmos/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Genso-0/Cardinal-Directions-Enumeration/blob/master/LICENSE) for more information.
